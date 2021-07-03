@@ -23,6 +23,7 @@ _Extras: Suplementos_
 
 ### Material
 * Link para apresentação: [Clique Aqui](https://docs.google.com/presentation/d/e/2PACX-1vTbDXzK2tHwCTR6IvovybDm3KcOTXqDwUVDQrHKfORYoZUHGqVF8j9quSLmyRKK7YY_8v1YrEZten5s/pub?start=false&loop=false&delayms=60000)
+_Obs.: Material Incompleto. Última Atualização: 03/07_
 
 ### Resoluções:
 * Básico e Intermediário: [Clique Aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vT0Q7nKtJqs7SgSCVSghCRb_cvn8tigAE7kH3DhN1p0RCVlvGibyi-4zsHalsE3zWfzhy6Wr9dTHSN4/pubhtml)
