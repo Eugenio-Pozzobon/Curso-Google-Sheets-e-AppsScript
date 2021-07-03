@@ -19,7 +19,7 @@ _Extras: Suplementos_
 10. Fórmulas Avançadas
 11. Formatação Condicional Avançada
 12. Gravação de Macros e interface gráfica
-13. Introdução ao Google Apps Script: 
+13. Introdução ao Google Apps Script.
 
 ### Material (Incompleto):
 * Link para apresentação: [Clique Aqui](https://docs.google.com/presentation/d/e/2PACX-1vTbDXzK2tHwCTR6IvovybDm3KcOTXqDwUVDQrHKfORYoZUHGqVF8j9quSLmyRKK7YY_8v1YrEZten5s/pub?start=false&loop=false&delayms=60000)
