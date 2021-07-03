@@ -23,6 +23,7 @@ _Extras: Suplementos_
 
 ### Material (Incompleto):
 * Link para apresentação: [Clique Aqui](https://docs.google.com/presentation/d/e/2PACX-1vTbDXzK2tHwCTR6IvovybDm3KcOTXqDwUVDQrHKfORYoZUHGqVF8j9quSLmyRKK7YY_8v1YrEZten5s/pub?start=false&loop=false&delayms=60000)
+* Para baixar o material deste repositório, [Clique Aqui](https://github.com/Eugenio-Pozzobon/Curso-Google-Sheets-e-AppsScript/archive/refs/heads/main.zip)
 
 ### Resoluções (Incompleto):
 * Básico e Intermediário: [Clique Aqui](https://docs.google.com/spreadsheets/d/1LpTxUxs6o_QgArreSTM8O07pwgmTHRjO3Wi2cemMtio/edit?usp=sharing)
