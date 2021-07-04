@@ -1,0 +1,20 @@
+{
+  "timeZone": "America/New_York",
+  "dependencies": {
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "sheets": {
+    "macros": [{
+      "menuName": "Urgentes",
+      "functionName": "Urgentes"
+    }, {
+      "menuName": "Não Urgentes",
+      "functionName": "NaoUrgentes"
+    }, {
+      "menuName": "Atualizar",
+      "functionName": "Atualizar",
+      "defaultShortcut": "Ctrl+Alt+Shift+0"
+    }]
+  }
+}
