@@ -21,12 +21,12 @@ _Extras: Suplementos_
 12. Gravação de Macros e interface gráfica
 13. Introdução ao Google Apps Script.
 
-### Material (Incompleto):
+### Material:
 * Link para apresentação: [Clique Aqui](https://docs.google.com/presentation/d/e/2PACX-1vTbDXzK2tHwCTR6IvovybDm3KcOTXqDwUVDQrHKfORYoZUHGqVF8j9quSLmyRKK7YY_8v1YrEZten5s/pub?start=false&loop=false&delayms=60000)
 * Para baixar o material deste curso, [Clique Aqui](https://github.com/Eugenio-Pozzobon/Curso-Google-Sheets-e-AppsScript/archive/refs/heads/main.zip)
 
-### Resoluções (Incompleto):
+### Resoluções:
 * Básico e Intermediário: [Clique Aqui](https://docs.google.com/spreadsheets/d/1LpTxUxs6o_QgArreSTM8O07pwgmTHRjO3Wi2cemMtio/edit?usp=sharing)
-* Avançado: [Clique Aqui](https://docs.google.com/spreadsheets/d/1-VYKWmumigG3LKTiKAdHFhwhgT6Ahw6RnCfmx-LQuwo/edit?usp=sharing)
+* Avançado (Incompleto): [Clique Aqui](https://docs.google.com/spreadsheets/d/1-VYKWmumigG3LKTiKAdHFhwhgT6Ahw6RnCfmx-LQuwo/edit?usp=sharing)
 
-_Obs.: Material Incompleto. Última Atualização: 03/07_
+_Obs.: Material Avançado está incompleto. Última Atualização: 05/07_
