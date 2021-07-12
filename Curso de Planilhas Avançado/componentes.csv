@@ -1,0 +1,26 @@
+,Sistema 1,,,,Sistema 2,,,,Sitema 3,,,,Sistema 4,,,
+,Componente,Tipo,Valor,Quant.,Componente,Tipo,Valor,Quant.,Componente,Tipo,Valor,Quant.,Componente,Tipo,Valor,Quant.
+,Capacitor ,SMD,22pF,2,Resistor,SMD,1k,3,Resistor,SMD,330,3,ATMEGA328P,DIP,-,1
+,Capacitor ,SMD,330nF,1,Capacitor ,DIP,100uF,2,Resistor,SMD,10k,5,CRISTAL,DIP,16,1
+,Capacitor ,SMD,100nF,2,Capacitor ,SMD,100nF,3,Resistor,SMD,2k2,1,MÓDULO CAN ,DIP,-,1
+,Capacitor ,DIP,100uF,2,MAX6675,SMD,-,8,Resistor,SMD,1K,1,HEADER MACHO,DIP,12,2
+,ATMEGA328P,DIP,-,1,LED smd,SMD,-,3,Capacitor,SMD,100nF,3,HEADER PINO LONGO,DIP,6,1
+,Regulador,DIP,7805,1,Diodo,SMD,1N4007,1,Capacitor,DIP,100uF,2,HEADER PINO LONGO,DIP,8,2
+,Diodo,SMD,1N4007,1,BORNE 2 PINOS,DIP,-,9,Capacitor,SMD,1uF,1,HEADER PINO LONGO,DIP,10,1
+,BORNE 2 PINOS,DIP,-,3,HEADER FÊMEA ,DIP,8,2,Capacitor,SMD,10nF,1,Capacitor,SMD,22pF,2
+,USB A Fêmea,DIP,DD,4,HEADER FÊMEA ,DIP,6,2,Capacitor,SMD,22pF,2,Resistor,SMD,"8,2k",1
+,Resistor,SMD,10k,3,HEADER FÊMEA ,DIP,7,2,Regulador,DIP,7805,1,Soquete Estampado,DIP,28,1
+,CRISTAL,DIP,16,1,HEADER FÊMEA ,DIP,4,2,ATMEGA328P,DIP,-,1,HEADER FÊMEA ,DIP,7,1
+,Soquete Estampado,DIP,28,1,HEADER MACHO ,DIP,30,1,Soquete Estampado,DIP,28,1,BORNE 2 PINOS,DIP,2,1
+,,,,,SN65HVD230,SMD,-,2,MOSFET,DIP,IRF1404,2,HEADER MACHO,DIP,5,1
+,,,,,TJA 1050,SMD,-,2,Diodo,SMD,1N4007,3,Diodo,SMD,1N4007,1
+,,,,,7807,DIP,-,2,LED VERM. 5mm,DIP,-,1,Capacitor,DIP,100uF,4
+,,,,,,,,,CRISTAL,DIP,16,1,Capacitor,SMD,330nF,1
+,,,,,,,,,MÓDULO CAN,DIP,-,1,Capacitor,SMD,100nF,6
+,,,,,,,,,BORNE 2 PINOS,DIP,-,1,Capacitor,SMD,1nF,3
+,,,,,,,,,HEADER FÊMEA,DIP,6,1,Regulador,DIP,7805,1
+,,,,,,,,,HEADER FÊMEA,DIP,7,1,HEADER MACHO,SMD,2,3
+,,,,,,,,,HEADER MACHO,DIP,6,1,HEADER MACHO,DIP,4,1
+,,,,,,,,,HEADER MACHO,DIP,7,1,HEADER FÊMEA ,DIP,4,1
+,,,,,,,,,CALÇO ESPAÇADOR,-,SIL 6.4,4,Regulador,SMD,AMS1117,2
+,,,,,,,,,Transistor,SMD,BC547,1,Modulo LoRa,DIP,1276 915Mhz,2
