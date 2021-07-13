@@ -1,5 +1,3 @@
-/** @OnlyCurrentDoc */
-
 function onOpen() {
   var menu = SpreadsheetApp.getUi().createMenu('Tasks');
   menu.addItem('Filtrar Urgentes', 'Urgentes').addToUi();
