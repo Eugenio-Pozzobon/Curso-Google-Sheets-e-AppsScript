@@ -27,6 +27,6 @@ _Extras: Suplementos_
 
 ### Resoluções:
 * Básico e Intermediário: [Clique Aqui](https://docs.google.com/spreadsheets/d/1LpTxUxs6o_QgArreSTM8O07pwgmTHRjO3Wi2cemMtio/edit?usp=sharing)
-* Avançado (Incompleto): [Clique Aqui](https://docs.google.com/spreadsheets/d/1-VYKWmumigG3LKTiKAdHFhwhgT6Ahw6RnCfmx-LQuwo/edit?usp=sharing)
+* Avançado: [Clique Aqui](https://docs.google.com/spreadsheets/d/1-VYKWmumigG3LKTiKAdHFhwhgT6Ahw6RnCfmx-LQuwo/edit?usp=sharing)
 
-_Obs.: Material Avançado está incompleto. Última Atualização: 05/07_
+_Obs.: Material Avançado está incompleto. Última Atualização: 13/07_
