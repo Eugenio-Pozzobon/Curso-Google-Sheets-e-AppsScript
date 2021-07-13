@@ -8,6 +8,7 @@ function gerarCertificados() {
   
   var inscritos = inscritosSheet.getRange("A2:F");
   
+  // lê os dados de cada linha da planilha de inscritos
   for(var i=1;i<inscritos.getLastRow(); i++){
       var name = inscritos.getCell(i, 1);
       var curso = inscritos.getCell(i, 3);
@@ -16,6 +17,7 @@ function gerarCertificados() {
       
       var pCm = (72)/2.55
 
+      // se o inscrito estiver com a presença mínima exigida, gera o texto e insere o texto numa folha do google slides
       if(inscritos.getCell(i, 6).getValue()){
 
         if(name.getValue()!=""){
