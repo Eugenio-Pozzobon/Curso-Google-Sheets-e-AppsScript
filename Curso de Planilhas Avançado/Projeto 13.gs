@@ -7,6 +7,7 @@ function onOpen() {
   
   var menuJornada = SpreadsheetApp.getUi().createMenu('Jornada');
   menuJornada.addItem('Gerar Certificados', 'gerarCertificados').addToUi();
+  menuJornada.addItem('Novo Certificado', 'gerarNovoCertificado').addToUi();
 }
 
 function Urgentes() {
