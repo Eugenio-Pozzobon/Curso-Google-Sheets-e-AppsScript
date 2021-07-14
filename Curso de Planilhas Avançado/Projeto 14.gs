@@ -2,7 +2,7 @@ function recieveForms() {
 
   var Ssheet = SpreadsheetApp.openById("1-VYKWmumigG3LKTiKAdHFhwhgT6Ahw6RnCfmx-LQuwo");
   
-  var inscritosSheet = Ssheet.getSheetByName("Respostas ao formulário de Inscrição");
+  var inscritosSheet = Ssheet.getSheetByName("14. Formulário de Inscrição");
   
   var inscritos = inscritosSheet.getRange("A2:F");
   
