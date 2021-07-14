@@ -26,8 +26,8 @@ function validarCodigo() {
         for(var j=1;j<inscritos.getLastRow(); j++){
 
           //se o inscrito estava apto a receber certificado 
-          if(inscritos.getCell(j, 6).getValue()){
-            var code = inscritos.getCell(j, 5);
+          if(inscritos.getCell(j, 4).getValue()){
+            var code = inscritos.getCell(j, 6);
 
             //checa o valor do código e compara com o valor recebido pelo usuário
             if(code.getValue() == codeRequested.getValue()){

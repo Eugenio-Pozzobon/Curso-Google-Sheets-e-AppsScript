@@ -3,6 +3,10 @@ function onOpen() {
   menu.addItem('Filtrar Urgentes', 'Urgentes').addToUi();
   menu.addItem('Filtrar Não Urgentes', 'NaoUrgentes').addToUi();
   menu.addItem('Atualizar Dados', 'Atualizar').addToUi();
+
+  
+  var menuJornada = SpreadsheetApp.getUi().createMenu('Jornada');
+  menuJornada.addItem('Gerar Certificados', 'gerarCertificados').addToUi();
 }
 
 function Urgentes() {

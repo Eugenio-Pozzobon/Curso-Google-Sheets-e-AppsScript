@@ -1,3 +1,5 @@
+
+
 function gerarCertificados() {
 
   var slides = SlidesApp.openById("1_S52B_qq7qESdBh_fMzu754WsyDTW8H0OUd-uSp4HtU");
@@ -12,13 +14,13 @@ function gerarCertificados() {
   for(var i=1;i<inscritos.getLastRow(); i++){
       var name = inscritos.getCell(i, 1);
       var curso = inscritos.getCell(i, 3);
-      var horas = inscritos.getCell(i, 4);
-      var code = inscritos.getCell(i, 5);
+      var horas = inscritos.getCell(i, 5);
+      var code = inscritos.getCell(i, 6);
       
       var pCm = (72)/2.55
 
       // se o inscrito estiver com a presença mínima exigida, gera o texto e insere o texto numa folha do google slides
-      if(inscritos.getCell(i, 6).getValue()){
+      if(inscritos.getCell(i, 4).getValue()){
 
         if(name.getValue()!=""){
 

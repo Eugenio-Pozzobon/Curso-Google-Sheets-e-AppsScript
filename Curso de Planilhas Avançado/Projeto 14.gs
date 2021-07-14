@@ -6,13 +6,13 @@ function recieveForms() {
   
   var inscritos = inscritosSheet.getRange("A2:F");
   
-  // lê os dados de cada linha da planilha de inscritos
+  // lê os dados de cada linha da planilha de inscritos no formulario
   for(var i=1;i<inscritos.getLastRow(); i++){
     var email = inscritos.getCell(i, 2);
     var name = inscritos.getCell(i, 3);
     var curso = inscritos.getCell(i, 5);
 
-    // se o inscrito estiver com a presença mínima exigida, gera o texto e insere o texto numa folha do google slides
+    // se o email não tiver sido enviado ainda, envia o email.
     if(!inscritos.getCell(i, 6).getValue()){
       if(name.getValue()!=""){
 
