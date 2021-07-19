@@ -27,4 +27,8 @@ _Extras: Suplementos_
 
 ### Resoluções:
 * Básico e Intermediário: [Clique Aqui](https://docs.google.com/spreadsheets/d/1LpTxUxs6o_QgArreSTM8O07pwgmTHRjO3Wi2cemMtio/edit?usp=sharing)
+
 * Avançado: [Clique Aqui](https://docs.google.com/spreadsheets/d/1-VYKWmumigG3LKTiKAdHFhwhgT6Ahw6RnCfmx-LQuwo/edit?usp=sharing)
+  * Formulário de Inscrição: [Clique Aqui](https://forms.gle/rconCLWySHgrfm787)
+  * Slides de Certificado: [Clique Aqui](https://docs.google.com/presentation/d/1_S52B_qq7qESdBh_fMzu754WsyDTW8H0OUd-uSp4HtU/edit?usp=sharing)
+  * Formulário do Validador: [Clique Aqui](https://forms.gle/6pehV9Qj1hUH4aCVA)
